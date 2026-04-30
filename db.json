@@ -3,13 +3,46 @@
     {
       "uid": "5596b412-12a8-4e86-855f-f29830b4041a",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-	  "nom": "EMPLACEMENT (ML)",
+	  "nom": "EMPLACEMENT (MLxJOUR)",
 	  "uid_ag": "01c54fe3-ce5c-438d-8766-52043050bd01",
 	  "uid_ac": "15568821-d393-43d2-9563-6be1605f8bde",
 	  "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 	  "si_abonne": false,
 	  "si_visible": true,
 	  "ordre": 1
+    },
+    {
+      "uid": "fc0b9636-d378-46c5-886f-44842745973a",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "EMPLACEMENT (MLxPROFxJOUR)",
+	  "uid_ag": "01c54fe3-ce5c-438d-8766-52043050bd01",
+	  "uid_ac": "15568821-d393-43d2-9563-6be1605f8bde",
+	  "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
+	  "si_abonne": false,
+	  "si_visible": true,
+	  "ordre": 2
+    },
+    {
+      "uid": "af1a24cd-5ff7-4eac-9d3a-636a536cdd04",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "EMPLACEMENT (MLxPROFxHAUTxJOUR)",
+	  "uid_ag": "01c54fe3-ce5c-438d-8766-52043050bd01",
+	  "uid_ac": "15568821-d393-43d2-9563-6be1605f8bde",
+	  "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
+	  "si_abonne": false,
+	  "si_visible": true,
+	  "ordre": 3
+    },
+    {
+      "uid": "af1a24cd-5ff7-4eac-9d3a-636a536cdd04",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "EMPLACEMENT (MLxPROFxHAUTxNBRxJOUR)",
+	  "uid_ag": "01c54fe3-ce5c-438d-8766-52043050bd01",
+	  "uid_ac": "15568821-d393-43d2-9563-6be1605f8bde",
+	  "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
+	  "si_abonne": false,
+	  "si_visible": true,
+	  "ordre": 4
     },
 	{
       "uid": "0665b6f5-846a-4824-af8e-4c376ff43eba",
@@ -20,7 +53,7 @@
 	  "uid_ts": "b694a335-e7b2-448a-baa1-78a2debf257d",
 	  "si_abonne": false,
 	  "si_visible": true,
-	  "ordre": 2
+	  "ordre": 5
     },
 	{
       "uid": "243a5ccc-7cb6-498b-859c-9fab16e5777e",
