@@ -99,6 +99,17 @@
 	  "ordre": 8
     },
 	{
+      "uid": "39d47190-f532-4731-a0f4-afd4e3b8aa54",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "GOBELET(S)",
+	  "uid_ag": "a6854b11-3d66-4ae2-94d5-61c7964b73b4",
+	  "uid_ac": "f5f74452-81fe-4b21-960a-31a0d19dcecc",
+	  "uid_ts": "1dcc140a-cd69-43c6-859a-d11f0644087e",
+	  "si_abonne": false,
+	  "si_visible": true,
+	  "ordre": 9
+    },
+	{
       "uid": "243a5ccc-7cb6-498b-859c-9fab16e5777e",
       "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
 	  "nom": "ENTREE PISCINE PRINCIPALE",
